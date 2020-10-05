@@ -1,0 +1,26 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Source
+1,CD40106BM,U1,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,BACK BOARD,
+2,1N4001,D2,DO-41_BD2.4-L4.7-P8.70-D0.9-RD,1,BACK BOARD,
+3,10uF,C2,CAP-TH_BD5.0-P2.00-D0.8-FD,1,BACK BOARD,
+4,EURO_POWER_LOCK,G$1,EURO_PWR_HEADER_LOCK,1,BACK BOARD,2x5 eurorack power header
+5,2N3904-tripod,Q1,TO92-E1,1,BACK BOARD,
+6,HEADER-MALE-1.27_1X6,"P2,P1",HDR-TH_6P-P1.27-V,2,BACK BOARD,https://www.mouser.com/ProductDetail/855-M50-3530842
+7,680K,R2,R805,1,BACK BOARD,
+8,5.6K,R3,R805,1,BACK BOARD,LED resistor (pick whatever looks good to you)
+9,1K,"R8,R10,R11, R12,R13,R14,R9",R805,7,BACK BOARD,
+10,91K,R1,R805,1,BACK BOARD,series resistor for timing circuit
+11,100nF,"C4,C3",C805,2,BACK BOARD,
+12,CD4516,U2,4516_SOIC_16,1,BACK BOARD,
+13,B250K T-18 shaft 9mm pot,VR1,9MM_SNAP-IN_POT-2HP,1,FRONT BOARD,https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/
+14,1/4 freq division,U8,THONKICONN-TIGHT,1,FRONT BOARD,
+15,1/1 bottom,U6,THONKICONN-TIGHT,1,FRONT BOARD,
+16,1/1,"U5,U4,U3",THONKICONN-TIGHT,3,FRONT BOARD,
+17,1/2 freq division,U7,THONKICONN-TIGHT,1,FRONT BOARD,
+18,DPDT-LED-PUSHBUTTON,S1,DPDT-LED-PUSHBUTTON,1,FRONT BOARD,
+19,HEADER-FEMALE-1.27_1X6,"P2,P1",HDR-TH_6P-P1.27-V,2,FRONT BOARD,https://www.mouser.com/ProductDetail/855-M50-3030642
+20,Do Not Populate,R1,R0805,1,FRONT BOARD,parallel with the pot for timing curve
+21,2.2uF,C1,C805,1,FRONT BOARD,timing cap #1
+22,22uF,C2,,1,FRONT BOARD,timing cap #2
+23,T-18 micro knob,,,1,FRONT BOARD,https://www.thonk.co.uk/shop/micro-knobs/
+24,aluminum spacer,,,1,,https://www.aluminumspacers.com/as13-256-240
+25,2-56 screw,,,2,,
